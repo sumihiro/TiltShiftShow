@@ -56,6 +56,7 @@
 
 - (void)dealloc {
 	[picture release];
+	[mainWebView release];
 	
     [super dealloc];
 }
