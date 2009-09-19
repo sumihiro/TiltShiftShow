@@ -22,9 +22,9 @@
 	};
 	28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {760, 1746}}";
+			sepNavIntBoundsRect = "{{0, 0}, {760, 1785}}";
 			sepNavSelRange = "{2064, 0}";
-			sepNavVisRange = "{1577, 1226}";
+			sepNavVisRange = "{1577, 1256}";
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {

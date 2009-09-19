@@ -24,6 +24,7 @@
 		A4C61C341064553F00C9A3C6 /* SBJsonParser.m in Sources */ = {isa = PBXBuildFile; fileRef = A4C61C2D1064553F00C9A3C6 /* SBJsonParser.m */; };
 		A4C61C351064553F00C9A3C6 /* SBJsonWriter.m in Sources */ = {isa = PBXBuildFile; fileRef = A4C61C2F1064553F00C9A3C6 /* SBJsonWriter.m */; };
 		A4C61C85106459C200C9A3C6 /* GTMRegex.m in Sources */ = {isa = PBXBuildFile; fileRef = A4C61C84106459C200C9A3C6 /* GTMRegex.m */; };
+		A4C61DFE1065068800C9A3C6 /* README in Resources */ = {isa = PBXBuildFile; fileRef = A4C61DFD1065068800C9A3C6 /* README */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,6 +61,7 @@
 		A4C61C82106459C200C9A3C6 /* GTMDefines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTMDefines.h; sourceTree = "<group>"; };
 		A4C61C83106459C200C9A3C6 /* GTMRegex.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTMRegex.h; sourceTree = "<group>"; };
 		A4C61C84106459C200C9A3C6 /* GTMRegex.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GTMRegex.m; sourceTree = "<group>"; };
+		A4C61DFD1065068800C9A3C6 /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				29B97317FDCFA39411CA2CEA /* Resources */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
+				A4C61DFD1065068800C9A3C6 /* README */,
 			);
 			name = CustomTemplate;
 			sourceTree = "<group>";
@@ -218,6 +221,7 @@
 			files = (
 				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
 				2899E5220DE3E06400AC0155 /* TiltShiftShowViewController.xib in Resources */,
+				A4C61DFE1065068800C9A3C6 /* README in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
