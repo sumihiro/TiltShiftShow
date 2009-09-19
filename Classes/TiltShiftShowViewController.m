@@ -9,12 +9,15 @@
 #import "TiltShiftShowViewController.h"
 
 #import "PictureManager.h"
-
+#import "DetailViewController.h"
 
 @implementation TiltShiftShowViewController
 
 @synthesize flashView;
+@synthesize contentView;
+@synthesize tweetLabel;
 @synthesize imageView;
+@synthesize coverView;
 
 /*
 // The designated initializer. Override to perform setup that is required before the view is loaded.
@@ -39,13 +42,15 @@
     [super viewDidLoad];
 
 	[flashView setAlpha:0.0f];
-	[imageView setAlpha:0.0f];
+	[contentView setAlpha:0.0f];
+	[coverView setBackgroundColor:[UIColor clearColor]];
 
 	//[[PictureManager sharedManager] clear];
 	
 	[self fireUpdatePictures];
 	[NSTimer scheduledTimerWithTimeInterval:120.0f target:self selector:@selector(fireUpdatePictures) userInfo:nil repeats:YES];
 	
+	shouldLoopAnimation = YES;
 	[self performSelector:@selector(startAnimation) withObject:nil afterDelay:0.1f];
 }
 
@@ -77,16 +82,28 @@
 #pragma mark -
 - (void)startAnimation {
 	NSDictionary *picture = [[PictureManager sharedManager] nextPicture];
+
 	if(!picture) {
-		//FIXME:retry
+		//FIXME: retry
 		NSLog(@"picture not found.");
 		//return;
+	} else {
+		if(currentPicture) {
+			[currentPicture release];
+			currentPicture = nil;
+		}
+		currentPicture = picture;
+		[currentPicture retain];
 	}
+	
+	
 	UIImage *currentImage = [UIImage imageWithContentsOfFile:[[PictureManager sharedManager] pathForFileName:[picture objectForKey:@"pictureFileName"]]];
 	[imageView setImage:currentImage];
 
+	[tweetLabel setText:[NSString stringWithFormat:@"@%@: %@",[picture objectForKey:@"tweetUser"],[picture objectForKey:@"text"]]];
+	
 	[flashView setAlpha:1.0f];
-	[imageView setAlpha:1.0f];
+	[contentView setAlpha:1.0f];
 
 	
 	[UIView beginAnimations:@"flashFadeout" context:nil];
@@ -104,14 +121,17 @@
 	[UIView setAnimationDelegate:self];
 	[UIView setAnimationDidStopSelector:@selector(animationDidStop:finished:context:)];
 
-	[imageView setAlpha:0.0f];
+	[contentView setAlpha:0.0f];
 	
 	[UIView commitAnimations];
 }
 
 - (void)animationDidStop:(NSString *)animationID finished:(NSNumber *)finished context:(void *)context {
 	NSLog(@"%@",NSStringFromSelector(_cmd));
-	[self startAnimation];
+	
+	if (shouldLoopAnimation) {
+		[self startAnimation];
+	}
 }
 
 #pragma mark -
@@ -127,6 +147,25 @@
 	[pm update];
 
 	[pool release];
+}
+
+#pragma mark -
+- (IBAction)touchMainView:(id)sender {
+	NSLog(@"touched");
+	
+	shouldLoopAnimation = NO;
+	
+	DetailViewController *controller = [[DetailViewController alloc] initWithNibName:@"DetailViewController" bundle:nil];
+	controller.delegate = self;
+	[controller setModalTransitionStyle:UIModalTransitionStyleCrossDissolve];
+	[controller setPicture:currentPicture];
+	[self presentModalViewController:controller animated:YES];
+	[controller release];
+}
+
+-(void)detailViewControllerWillClose:(DetailViewController*)detailViewController {
+	shouldLoopAnimation = YES;
+	[self startAnimation];
 }
 
 @end

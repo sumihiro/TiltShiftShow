@@ -340,12 +340,13 @@
 								<string>A4C61C81106459C200C9A3C6</string>
 								<string>080E96DDFE201D6D7F000001</string>
 								<string>29B97317FDCFA39411CA2CEA</string>
+								<string>29B97323FDCFA39411CA2CEA</string>
 								<string>1C37FABC05509CD000000102</string>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>10</integer>
+									<integer>16</integer>
 									<integer>6</integer>
 									<integer>0</integer>
 								</array>
@@ -388,7 +389,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>TiltShiftShowViewController.m</string>
+								<string>DetailViewController.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -396,23 +397,26 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>TiltShiftShowViewController.m</string>
+										<string>DetailViewController.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>A4C61DF61065057D00C9A3C6</string>
+										<string>A4C61EDE10652E9E00C9A3C6</string>
 										<key>history</key>
 										<array>
 											<string>A4C61C3A1064574800C9A3C6</string>
 											<string>A4C61CA810645CC800C9A3C6</string>
 											<string>A4C61D981064C61B00C9A3C6</string>
-											<string>A4C61DA41064C66400C9A3C6</string>
-											<string>A4C61DB71064C89200C9A3C6</string>
-											<string>A4C61DC11064C98100C9A3C6</string>
-											<string>A4C61DED1064D84E00C9A3C6</string>
-											<string>A4C61DEE1064D84E00C9A3C6</string>
-											<string>A4C61DF51065057D00C9A3C6</string>
-											<string>A4C61DEF1064D84E00C9A3C6</string>
+											<string>A4C61E0510650FBA00C9A3C6</string>
+											<string>A4C61E0610650FBA00C9A3C6</string>
+											<string>A4C61E1A106513E900C9A3C6</string>
+											<string>A4C61E1B106513E900C9A3C6</string>
+											<string>A4C61E2F106515D700C9A3C6</string>
+											<string>A4C61E4D1065205300C9A3C6</string>
+											<string>A4C61ECC10652E2300C9A3C6</string>
+											<string>A4C61ED110652E3700C9A3C6</string>
+											<string>A4C61ED210652E3700C9A3C6</string>
+											<string>A4C61ECB10652E2300C9A3C6</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -593,7 +597,7 @@
 	<key>StatusbarIsVisible</key>
 	<true/>
 	<key>TimeStamp</key>
-	<real>275055997.39907199</real>
+	<real>275066526.51271999</real>
 	<key>ToolbarConfigUserDefaultsMinorVersion</key>
 	<string>2</string>
 	<key>ToolbarDisplayMode</key>
@@ -610,6 +614,7 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+		<string>A4C61EDF10652E9E00C9A3C6</string>
 		<string>A4C61C9B10645B3300C9A3C6</string>
 		<string>A4C61C9510645B1600C9A3C6</string>
 		<string>1C530D57069F1CE1000CFCEE</string>
@@ -640,7 +645,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CD0528F0623707200166675</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>PictureManager.m</string>
+								<string>DetailViewController.m</string>
 								<key>StatusBarVisibility</key>
 								<true/>
 							</dict>

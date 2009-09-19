@@ -16,15 +16,15 @@
 	28D7ACF60DDB3853001CB0EB /* TiltShiftShowViewController.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {760, 612}}";
-			sepNavSelRange = "{435, 0}";
-			sepNavVisRange = "{0, 443}";
+			sepNavSelRange = "{300, 0}";
+			sepNavVisRange = "{0, 849}";
 		};
 	};
 	28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {760, 1785}}";
-			sepNavSelRange = "{2064, 0}";
-			sepNavVisRange = "{1577, 1256}";
+			sepNavIntBoundsRect = "{{0, 0}, {633, 2353}}";
+			sepNavSelRange = "{4320, 0}";
+			sepNavVisRange = "{3856, 288}";
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
@@ -36,7 +36,9 @@
 			1D6058900D05DD3D006BFB54 /* TiltShiftShow */,
 		);
 		breakpoints = (
-			A4C61D481064A66400C9A3C6 /* TiltShiftShowViewController.m:86 */,
+			A4C61D481064A66400C9A3C6 /* TiltShiftShowViewController.m:102 */,
+			A4C61E68106522D700C9A3C6 /* TiltShiftShowViewController.m:154 */,
+			A4C61EB91065268A00C9A3C6 /* DetailViewController.m:32 */,
 		);
 		codeSenseManager = A4C61C1A106453F800C9A3C6 /* Code sense */;
 		executables = (
@@ -203,6 +205,90 @@
 			A4C61DF01064D84E00C9A3C6 /* PBXTextBookmark */ = A4C61DF01064D84E00C9A3C6 /* PBXTextBookmark */;
 			A4C61DF51065057D00C9A3C6 /* PBXTextBookmark */ = A4C61DF51065057D00C9A3C6 /* PBXTextBookmark */;
 			A4C61DF61065057D00C9A3C6 /* PBXTextBookmark */ = A4C61DF61065057D00C9A3C6 /* PBXTextBookmark */;
+			A4C61E0510650FBA00C9A3C6 /* PBXTextBookmark */ = A4C61E0510650FBA00C9A3C6 /* PBXTextBookmark */;
+			A4C61E0610650FBA00C9A3C6 /* PlistBookmark */ = A4C61E0610650FBA00C9A3C6 /* PlistBookmark */;
+			A4C61E0710650FBA00C9A3C6 /* PBXTextBookmark */ = A4C61E0710650FBA00C9A3C6 /* PBXTextBookmark */;
+			A4C61E0810650FBA00C9A3C6 /* PBXTextBookmark */ = A4C61E0810650FBA00C9A3C6 /* PBXTextBookmark */;
+			A4C61E0910650FBA00C9A3C6 /* PBXTextBookmark */ = A4C61E0910650FBA00C9A3C6 /* PBXTextBookmark */;
+			A4C61E0A10650FBA00C9A3C6 /* PBXTextBookmark */ = A4C61E0A10650FBA00C9A3C6 /* PBXTextBookmark */;
+			A4C61E0B10650FBA00C9A3C6 /* PBXTextBookmark */ = A4C61E0B10650FBA00C9A3C6 /* PBXTextBookmark */;
+			A4C61E0C10650FCC00C9A3C6 /* PBXTextBookmark */ = A4C61E0C10650FCC00C9A3C6 /* PBXTextBookmark */;
+			A4C61E0D10650FDD00C9A3C6 /* PBXTextBookmark */ = A4C61E0D10650FDD00C9A3C6 /* PBXTextBookmark */;
+			A4C61E0E10650FDD00C9A3C6 /* PBXTextBookmark */ = A4C61E0E10650FDD00C9A3C6 /* PBXTextBookmark */;
+			A4C61E151065138C00C9A3C6 /* PBXTextBookmark */ = A4C61E151065138C00C9A3C6 /* PBXTextBookmark */;
+			A4C61E161065138C00C9A3C6 /* PBXTextBookmark */ = A4C61E161065138C00C9A3C6 /* PBXTextBookmark */;
+			A4C61E171065138C00C9A3C6 /* PBXTextBookmark */ = A4C61E171065138C00C9A3C6 /* PBXTextBookmark */;
+			A4C61E1A106513E900C9A3C6 /* PBXTextBookmark */ = A4C61E1A106513E900C9A3C6 /* PBXTextBookmark */;
+			A4C61E1B106513E900C9A3C6 /* PBXTextBookmark */ = A4C61E1B106513E900C9A3C6 /* PBXTextBookmark */;
+			A4C61E1C106513E900C9A3C6 /* PBXTextBookmark */ = A4C61E1C106513E900C9A3C6 /* PBXTextBookmark */;
+			A4C61E1D106513E900C9A3C6 /* PBXTextBookmark */ = A4C61E1D106513E900C9A3C6 /* PBXTextBookmark */;
+			A4C61E1E106513E900C9A3C6 /* PBXTextBookmark */ = A4C61E1E106513E900C9A3C6 /* PBXTextBookmark */;
+			A4C61E2F106515D700C9A3C6 /* PBXTextBookmark */ = A4C61E2F106515D700C9A3C6 /* PBXTextBookmark */;
+			A4C61E30106515D700C9A3C6 /* PBXTextBookmark */ = A4C61E30106515D700C9A3C6 /* PBXTextBookmark */;
+			A4C61E31106515D700C9A3C6 /* PBXTextBookmark */ = A4C61E31106515D700C9A3C6 /* PBXTextBookmark */;
+			A4C61E34106515FD00C9A3C6 /* PBXTextBookmark */ = A4C61E34106515FD00C9A3C6 /* PBXTextBookmark */;
+			A4C61E3B106519C300C9A3C6 /* PBXTextBookmark */ = A4C61E3B106519C300C9A3C6 /* PBXTextBookmark */;
+			A4C61E3C106519C300C9A3C6 /* PBXTextBookmark */ = A4C61E3C106519C300C9A3C6 /* PBXTextBookmark */;
+			A4C61E3D106519C300C9A3C6 /* PBXTextBookmark */ = A4C61E3D106519C300C9A3C6 /* PBXTextBookmark */;
+			A4C61E3E106519C300C9A3C6 /* PBXBookmark */ = A4C61E3E106519C300C9A3C6 /* PBXBookmark */;
+			A4C61E3F106519C300C9A3C6 /* PBXTextBookmark */ = A4C61E3F106519C300C9A3C6 /* PBXTextBookmark */;
+			A4C61E4010651DD100C9A3C6 /* PBXTextBookmark */ = A4C61E4010651DD100C9A3C6 /* PBXTextBookmark */;
+			A4C61E4110651DD100C9A3C6 /* PBXTextBookmark */ = A4C61E4110651DD100C9A3C6 /* PBXTextBookmark */;
+			A4C61E4210651DD100C9A3C6 /* PBXTextBookmark */ = A4C61E4210651DD100C9A3C6 /* PBXTextBookmark */;
+			A4C61E4510651F4900C9A3C6 /* PBXTextBookmark */ = A4C61E4510651F4900C9A3C6 /* PBXTextBookmark */;
+			A4C61E4610651F4900C9A3C6 /* PBXTextBookmark */ = A4C61E4610651F4900C9A3C6 /* PBXTextBookmark */;
+			A4C61E4710651F4900C9A3C6 /* PBXTextBookmark */ = A4C61E4710651F4900C9A3C6 /* PBXTextBookmark */;
+			A4C61E4B1065205300C9A3C6 /* PBXTextBookmark */ = A4C61E4B1065205300C9A3C6 /* PBXTextBookmark */;
+			A4C61E4C1065205300C9A3C6 /* PBXTextBookmark */ = A4C61E4C1065205300C9A3C6 /* PBXTextBookmark */;
+			A4C61E4D1065205300C9A3C6 /* PBXTextBookmark */ = A4C61E4D1065205300C9A3C6 /* PBXTextBookmark */;
+			A4C61E4E1065205300C9A3C6 /* PBXTextBookmark */ = A4C61E4E1065205300C9A3C6 /* PBXTextBookmark */;
+			A4C61E4F1065205300C9A3C6 /* PBXTextBookmark */ = A4C61E4F1065205300C9A3C6 /* PBXTextBookmark */;
+			A4C61E501065205300C9A3C6 /* PBXTextBookmark */ = A4C61E501065205300C9A3C6 /* PBXTextBookmark */;
+			A4C61E541065218A00C9A3C6 /* PBXTextBookmark */ = A4C61E541065218A00C9A3C6 /* PBXTextBookmark */;
+			A4C61E551065218A00C9A3C6 /* PBXTextBookmark */ = A4C61E551065218A00C9A3C6 /* PBXTextBookmark */;
+			A4C61E561065218A00C9A3C6 /* PBXTextBookmark */ = A4C61E561065218A00C9A3C6 /* PBXTextBookmark */;
+			A4C61E591065219700C9A3C6 /* PBXTextBookmark */ = A4C61E591065219700C9A3C6 /* PBXTextBookmark */;
+			A4C61E601065223900C9A3C6 /* PBXTextBookmark */ = A4C61E601065223900C9A3C6 /* PBXTextBookmark */;
+			A4C61E611065229500C9A3C6 /* PBXTextBookmark */ = A4C61E611065229500C9A3C6 /* PBXTextBookmark */;
+			A4C61E621065229500C9A3C6 /* PBXTextBookmark */ = A4C61E621065229500C9A3C6 /* PBXTextBookmark */;
+			A4C61E631065229500C9A3C6 /* PBXTextBookmark */ = A4C61E631065229500C9A3C6 /* PBXTextBookmark */;
+			A4C61E64106522B200C9A3C6 /* PBXTextBookmark */ = A4C61E64106522B200C9A3C6 /* PBXTextBookmark */;
+			A4C61E65106522B200C9A3C6 /* PBXTextBookmark */ = A4C61E65106522B200C9A3C6 /* PBXTextBookmark */;
+			A4C61E6A106522DF00C9A3C6 /* PBXTextBookmark */ = A4C61E6A106522DF00C9A3C6 /* PBXTextBookmark */;
+			A4C61E6B106522DF00C9A3C6 /* PBXTextBookmark */ = A4C61E6B106522DF00C9A3C6 /* PBXTextBookmark */;
+			A4C61E6C106522DF00C9A3C6 /* PBXTextBookmark */ = A4C61E6C106522DF00C9A3C6 /* PBXTextBookmark */;
+			A4C61E6D106522DF00C9A3C6 /* PBXTextBookmark */ = A4C61E6D106522DF00C9A3C6 /* PBXTextBookmark */;
+			A4C61E711065231F00C9A3C6 /* PBXTextBookmark */ = A4C61E711065231F00C9A3C6 /* PBXTextBookmark */;
+			A4C61E721065231F00C9A3C6 /* PBXTextBookmark */ = A4C61E721065231F00C9A3C6 /* PBXTextBookmark */;
+			A4C61E731065231F00C9A3C6 /* PBXTextBookmark */ = A4C61E731065231F00C9A3C6 /* PBXTextBookmark */;
+			A4C61E8A106524E000C9A3C6 /* PBXTextBookmark */ = A4C61E8A106524E000C9A3C6 /* PBXTextBookmark */;
+			A4C61E8B106524E000C9A3C6 /* PBXTextBookmark */ = A4C61E8B106524E000C9A3C6 /* PBXTextBookmark */;
+			A4C61E8C106524E000C9A3C6 /* PBXTextBookmark */ = A4C61E8C106524E000C9A3C6 /* PBXTextBookmark */;
+			A4C61E931065250800C9A3C6 /* PBXTextBookmark */ = A4C61E931065250800C9A3C6 /* PBXTextBookmark */;
+			A4C61E9A1065253D00C9A3C6 /* PBXTextBookmark */ = A4C61E9A1065253D00C9A3C6 /* PBXTextBookmark */;
+			A4C61EA11065258600C9A3C6 /* PBXTextBookmark */ = A4C61EA11065258600C9A3C6 /* PBXTextBookmark */;
+			A4C61EAB1065264C00C9A3C6 /* PBXTextBookmark */ = A4C61EAB1065264C00C9A3C6 /* PBXTextBookmark */;
+			A4C61EAC1065264C00C9A3C6 /* PBXTextBookmark */ = A4C61EAC1065264C00C9A3C6 /* PBXTextBookmark */;
+			A4C61EAD1065264C00C9A3C6 /* PBXTextBookmark */ = A4C61EAD1065264C00C9A3C6 /* PBXTextBookmark */;
+			A4C61EAE1065264C00C9A3C6 /* PBXTextBookmark */ = A4C61EAE1065264C00C9A3C6 /* PBXTextBookmark */;
+			A4C61EBB1065268D00C9A3C6 /* PBXTextBookmark */ = A4C61EBB1065268D00C9A3C6 /* PBXTextBookmark */;
+			A4C61EBC1065268D00C9A3C6 /* PBXTextBookmark */ = A4C61EBC1065268D00C9A3C6 /* PBXTextBookmark */;
+			A4C61EC110652C6E00C9A3C6 /* PBXTextBookmark */ = A4C61EC110652C6E00C9A3C6 /* PBXTextBookmark */;
+			A4C61EC210652C6E00C9A3C6 /* PBXTextBookmark */ = A4C61EC210652C6E00C9A3C6 /* PBXTextBookmark */;
+			A4C61EC310652C6E00C9A3C6 /* PBXTextBookmark */ = A4C61EC310652C6E00C9A3C6 /* PBXTextBookmark */;
+			A4C61EC410652C6E00C9A3C6 /* PBXTextBookmark */ = A4C61EC410652C6E00C9A3C6 /* PBXTextBookmark */;
+			A4C61EC510652D3A00C9A3C6 /* PBXTextBookmark */ = A4C61EC510652D3A00C9A3C6 /* PBXTextBookmark */;
+			A4C61EC610652D3A00C9A3C6 /* PBXTextBookmark */ = A4C61EC610652D3A00C9A3C6 /* PBXTextBookmark */;
+			A4C61EC710652D3A00C9A3C6 /* PBXTextBookmark */ = A4C61EC710652D3A00C9A3C6 /* PBXTextBookmark */;
+			A4C61EC810652D3A00C9A3C6 /* PBXTextBookmark */ = A4C61EC810652D3A00C9A3C6 /* PBXTextBookmark */;
+			A4C61ECB10652E2300C9A3C6 /* PBXTextBookmark */ = A4C61ECB10652E2300C9A3C6 /* PBXTextBookmark */;
+			A4C61ECC10652E2300C9A3C6 /* PBXTextBookmark */ = A4C61ECC10652E2300C9A3C6 /* PBXTextBookmark */;
+			A4C61ECD10652E2300C9A3C6 /* PBXTextBookmark */ = A4C61ECD10652E2300C9A3C6 /* PBXTextBookmark */;
+			A4C61ED110652E3700C9A3C6 /* PBXTextBookmark */ = A4C61ED110652E3700C9A3C6 /* PBXTextBookmark */;
+			A4C61ED210652E3700C9A3C6 /* PBXTextBookmark */ = A4C61ED210652E3700C9A3C6 /* PBXTextBookmark */;
+			A4C61ED310652E3700C9A3C6 /* PBXTextBookmark */ = A4C61ED310652E3700C9A3C6 /* PBXTextBookmark */;
+			A4C61ED810652E4F00C9A3C6 /* PBXTextBookmark */ = A4C61ED810652E4F00C9A3C6 /* PBXTextBookmark */;
+			A4C61EDE10652E9E00C9A3C6 /* PBXTextBookmark */ = A4C61EDE10652E9E00C9A3C6 /* PBXTextBookmark */;
 		};
 		sourceControlManager = A4C61C19106453F800C9A3C6 /* Source Control */;
 		userBuildSettings = {
@@ -215,7 +301,7 @@
 		argumentStrings = (
 		);
 		autoAttachOnCrash = 1;
-		breakpointsEnabled = 0;
+		breakpointsEnabled = 1;
 		configStateDict = {
 		};
 		customDataFormattersEnabled = 1;
@@ -271,16 +357,16 @@
 	};
 	A4C61C1F1064544A00C9A3C6 /* PictureFetcher.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {760, 589}}";
+			sepNavIntBoundsRect = "{{0, 0}, {760, 612}}";
 			sepNavSelRange = "{570, 60}";
 			sepNavVisRange = "{0, 636}";
 		};
 	};
 	A4C61C201064544A00C9A3C6 /* PictureFetcher.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {760, 1447}}";
-			sepNavSelRange = "{3106, 0}";
-			sepNavVisRange = "{1713, 1408}";
+			sepNavIntBoundsRect = "{{0, 0}, {760, 1434}}";
+			sepNavSelRange = "{1571, 0}";
+			sepNavVisRange = "{688, 1667}";
 		};
 	};
 	A4C61C381064574800C9A3C6 /* PBXTextBookmark */ = {
@@ -670,7 +756,7 @@
 		fRef = A4C61C201064544A00C9A3C6 /* PictureFetcher.m */;
 		name = "PictureFetcher.m: 40";
 		rLen = 0;
-		rLoc = 1672;
+		rLoc = 1739;
 		rType = 0;
 		vrLen = 979;
 		vrLoc = 169;
@@ -760,7 +846,7 @@
 		fRef = A4C61C201064544A00C9A3C6 /* PictureFetcher.m */;
 		name = "PictureFetcher.m: 43";
 		rLen = 0;
-		rLoc = 1670;
+		rLoc = 1737;
 		rType = 0;
 		vrLen = 1051;
 		vrLoc = 267;
@@ -770,7 +856,7 @@
 		fRef = A4C61C201064544A00C9A3C6 /* PictureFetcher.m */;
 		name = "PictureFetcher.m: 46";
 		rLen = 0;
-		rLoc = 1665;
+		rLoc = 1732;
 		rType = 0;
 		vrLen = 1198;
 		vrLoc = 267;
@@ -800,7 +886,7 @@
 		fRef = A4C61C201064544A00C9A3C6 /* PictureFetcher.m */;
 		name = "PictureFetcher.m: 46";
 		rLen = 0;
-		rLoc = 1665;
+		rLoc = 1732;
 		rType = 0;
 		vrLen = 1159;
 		vrLoc = 314;
@@ -810,7 +896,7 @@
 		fRef = A4C61C201064544A00C9A3C6 /* PictureFetcher.m */;
 		name = "PictureFetcher.m: 50";
 		rLen = 0;
-		rLoc = 1644;
+		rLoc = 1711;
 		rType = 0;
 		vrLen = 1389;
 		vrLoc = 314;
@@ -860,7 +946,7 @@
 		fRef = A4C61C201064544A00C9A3C6 /* PictureFetcher.m */;
 		name = "PictureFetcher.m: 83";
 		rLen = 0;
-		rLoc = 2545;
+		rLoc = 2612;
 		rType = 0;
 		vrLen = 1317;
 		vrLoc = 1671;
@@ -960,7 +1046,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 75";
 		rLen = 0;
-		rLoc = 3363;
+		rLoc = 3872;
 		rType = 0;
 		vrLen = 1064;
 		vrLoc = 686;
@@ -980,7 +1066,7 @@
 		fRef = 28D7ACF60DDB3853001CB0EB /* TiltShiftShowViewController.h */;
 		name = "TiltShiftShowViewController.h: 13";
 		rLen = 0;
-		rLoc = 302;
+		rLoc = 519;
 		rType = 0;
 		vrLen = 312;
 		vrLoc = 0;
@@ -990,7 +1076,7 @@
 		fRef = 28D7ACF60DDB3853001CB0EB /* TiltShiftShowViewController.h */;
 		name = "TiltShiftShowViewController.h: 18";
 		rLen = 0;
-		rLoc = 436;
+		rLoc = 842;
 		rType = 0;
 		vrLen = 414;
 		vrLoc = 0;
@@ -1000,7 +1086,7 @@
 		fRef = 28D7ACF60DDB3853001CB0EB /* TiltShiftShowViewController.h */;
 		name = "TiltShiftShowViewController.h: 17";
 		rLen = 9;
-		rLoc = 396;
+		rLoc = 713;
 		rType = 0;
 		vrLen = 414;
 		vrLoc = 0;
@@ -1020,7 +1106,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 80";
 		rLen = 0;
-		rLoc = 2532;
+		rLoc = 3005;
 		rType = 0;
 		vrLen = 1094;
 		vrLoc = 1264;
@@ -1030,7 +1116,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 84";
 		rLen = 0;
-		rLoc = 2497;
+		rLoc = 2970;
 		rType = 0;
 		vrLen = 1144;
 		vrLoc = 1264;
@@ -1050,7 +1136,7 @@
 		fRef = 28D7ACF60DDB3853001CB0EB /* TiltShiftShowViewController.h */;
 		name = "TiltShiftShowViewController.h: 17";
 		rLen = 9;
-		rLoc = 396;
+		rLoc = 713;
 		rType = 0;
 		vrLen = 414;
 		vrLoc = 0;
@@ -1060,7 +1146,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 84";
 		rLen = 0;
-		rLoc = 2497;
+		rLoc = 2970;
 		rType = 0;
 		vrLen = 1150;
 		vrLoc = 705;
@@ -1070,7 +1156,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 13";
 		rLen = 0;
-		rLoc = 224;
+		rLoc = 256;
 		rType = 0;
 		vrLen = 1058;
 		vrLoc = 1558;
@@ -1080,7 +1166,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 44";
 		rLen = 0;
-		rLoc = 1242;
+		rLoc = 1430;
 		rType = 0;
 		vrLen = 1114;
 		vrLoc = 758;
@@ -1090,7 +1176,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 86";
 		rLen = 0;
-		rLoc = 2321;
+		rLoc = 2794;
 		rType = 0;
 		vrLen = 1062;
 		vrLoc = 1643;
@@ -1100,12 +1186,12 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 82";
 		rLen = 0;
-		rLoc = 2264;
+		rLoc = 2735;
 		rType = 0;
 		vrLen = 1064;
 		vrLoc = 1643;
 	};
-	A4C61D481064A66400C9A3C6 /* TiltShiftShowViewController.m:86 */ = {
+	A4C61D481064A66400C9A3C6 /* TiltShiftShowViewController.m:102 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -1117,9 +1203,9 @@
 		functionName = "-startAnimation";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 86;
+		lineNumber = 102;
 		location = TiltShiftShow;
-		modificationTime = 275041192.991429;
+		modificationTime = 275066506.478042;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -1128,7 +1214,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 82";
 		rLen = 0;
-		rLoc = 2262;
+		rLoc = 2733;
 		rType = 0;
 		vrLen = 1017;
 		vrLoc = 1467;
@@ -1138,7 +1224,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 82";
 		rLen = 0;
-		rLoc = 2262;
+		rLoc = 2733;
 		rType = 0;
 		vrLen = 1017;
 		vrLoc = 1467;
@@ -1148,7 +1234,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 83";
 		rLen = 0;
-		rLoc = 2290;
+		rLoc = 2761;
 		rType = 0;
 		vrLen = 1017;
 		vrLoc = 1467;
@@ -1198,7 +1284,7 @@
 		fRef = 28D7ACF60DDB3853001CB0EB /* TiltShiftShowViewController.h */;
 		name = "TiltShiftShowViewController.h: 17";
 		rLen = 9;
-		rLoc = 396;
+		rLoc = 713;
 		rType = 0;
 		vrLen = 414;
 		vrLoc = 0;
@@ -1208,7 +1294,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 45";
 		rLen = 0;
-		rLoc = 1003;
+		rLoc = 1163;
 		rType = 0;
 		vrLen = 1351;
 		vrLoc = 902;
@@ -1228,7 +1314,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 109";
 		rLen = 32;
-		rLoc = 2976;
+		rLoc = 3451;
 		rType = 0;
 		vrLen = 1123;
 		vrLoc = 1886;
@@ -1238,7 +1324,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 109";
 		rLen = 0;
-		rLoc = 3034;
+		rLoc = 3544;
 		rType = 0;
 		vrLen = 1201;
 		vrLoc = 1946;
@@ -1248,7 +1334,7 @@
 		fRef = 28D7ACF60DDB3853001CB0EB /* TiltShiftShowViewController.h */;
 		name = "TiltShiftShowViewController.h: 17";
 		rLen = 9;
-		rLoc = 396;
+		rLoc = 713;
 		rType = 0;
 		vrLen = 414;
 		vrLoc = 0;
@@ -1278,7 +1364,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 109";
 		rLen = 0;
-		rLoc = 3034;
+		rLoc = 3544;
 		rType = 0;
 		vrLen = 1176;
 		vrLoc = 1971;
@@ -1288,7 +1374,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 91";
 		rLen = 0;
-		rLoc = 2320;
+		rLoc = 2793;
 		rType = 0;
 		vrLen = 1207;
 		vrLoc = 1931;
@@ -1298,7 +1384,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 105";
 		rLen = 0;
-		rLoc = 2832;
+		rLoc = 3307;
 		rType = 0;
 		vrLen = 1103;
 		vrLoc = 1886;
@@ -1317,7 +1403,7 @@
 		fRef = A4C61C201064544A00C9A3C6 /* PictureFetcher.m */;
 		name = "PictureFetcher.m: 83";
 		rLen = 0;
-		rLoc = 2545;
+		rLoc = 2612;
 		rType = 0;
 		vrLen = 1317;
 		vrLoc = 1671;
@@ -1327,7 +1413,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 85";
 		rLen = 0;
-		rLoc = 2220;
+		rLoc = 2560;
 		rType = 0;
 		vrLen = 1179;
 		vrLoc = 2042;
@@ -1387,7 +1473,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 86";
 		rLen = 0;
-		rLoc = 2226;
+		rLoc = 2566;
 		rType = 0;
 		vrLen = 1112;
 		vrLoc = 1677;
@@ -1447,7 +1533,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 104";
 		rLen = 0;
-		rLoc = 2802;
+		rLoc = 3275;
 		rType = 0;
 		vrLen = 1188;
 		vrLoc = 1766;
@@ -1457,7 +1543,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 112";
 		rLen = 0;
-		rLoc = 3034;
+		rLoc = 3544;
 		rType = 0;
 		vrLen = 1196;
 		vrLoc = 1764;
@@ -1467,7 +1553,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 99";
 		rLen = 0;
-		rLoc = 2640;
+		rLoc = 3113;
 		rType = 0;
 		vrLen = 1307;
 		vrLoc = 1824;
@@ -1477,7 +1563,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 99";
 		rLen = 0;
-		rLoc = 2640;
+		rLoc = 3113;
 		rType = 0;
 		vrLen = 1338;
 		vrLoc = 320;
@@ -1517,7 +1603,7 @@
 		fRef = A4C61C201064544A00C9A3C6 /* PictureFetcher.m */;
 		name = "PictureFetcher.m: 100";
 		rLen = 0;
-		rLoc = 3106;
+		rLoc = 3173;
 		rType = 0;
 		vrLen = 1408;
 		vrLoc = 1713;
@@ -1527,7 +1613,7 @@
 		fRef = A4C61C201064544A00C9A3C6 /* PictureFetcher.m */;
 		name = "PictureFetcher.m: 100";
 		rLen = 0;
-		rLoc = 3106;
+		rLoc = 3173;
 		rType = 0;
 		vrLen = 1408;
 		vrLoc = 1713;
@@ -1537,7 +1623,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 99";
 		rLen = 0;
-		rLoc = 2640;
+		rLoc = 3113;
 		rType = 0;
 		vrLen = 1341;
 		vrLoc = 317;
@@ -1547,7 +1633,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 119";
 		rLen = 0;
-		rLoc = 3202;
+		rLoc = 3711;
 		rType = 0;
 		vrLen = 1317;
 		vrLoc = 759;
@@ -1557,7 +1643,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 119";
 		rLen = 0;
-		rLoc = 3124;
+		rLoc = 3633;
 		rType = 0;
 		vrLen = 1213;
 		vrLoc = 2267;
@@ -1567,7 +1653,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 130";
 		rLen = 0;
-		rLoc = 3379;
+		rLoc = 3888;
 		rType = 0;
 		vrLen = 1208;
 		vrLoc = 2267;
@@ -1577,7 +1663,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 48";
 		rLen = 0;
-		rLoc = 1158;
+		rLoc = 1318;
 		rType = 0;
 		vrLen = 1334;
 		vrLoc = 637;
@@ -1587,7 +1673,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 48";
 		rLen = 0;
-		rLoc = 1130;
+		rLoc = 1290;
 		rType = 0;
 		vrLen = 1371;
 		vrLoc = 760;
@@ -1619,7 +1705,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 118";
 		rLen = 29;
-		rLoc = 3053;
+		rLoc = 3562;
 		rType = 0;
 		vrLen = 1161;
 		vrLoc = 2224;
@@ -1629,7 +1715,7 @@
 		fRef = 28D7ACF60DDB3853001CB0EB /* TiltShiftShowViewController.h */;
 		name = "TiltShiftShowViewController.h: 19";
 		rLen = 0;
-		rLoc = 435;
+		rLoc = 841;
 		rType = 0;
 		vrLen = 443;
 		vrLoc = 0;
@@ -1639,7 +1725,7 @@
 		fRef = 28D7ACF60DDB3853001CB0EB /* TiltShiftShowViewController.h */;
 		name = "TiltShiftShowViewController.h: 19";
 		rLen = 0;
-		rLoc = 435;
+		rLoc = 841;
 		rType = 0;
 		vrLen = 443;
 		vrLoc = 0;
@@ -1649,9 +1735,901 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
 		name = "TiltShiftShowViewController.m: 83";
 		rLen = 0;
-		rLoc = 2064;
+		rLoc = 2254;
 		rType = 0;
 		vrLen = 1226;
 		vrLoc = 1577;
+	};
+	A4C61DFD1065068800C9A3C6 /* README */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {760, 612}}";
+			sepNavSelRange = "{27, 43}";
+			sepNavVisRange = "{0, 182}";
+		};
+	};
+	A4C61E0510650FBA00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61DFD1065068800C9A3C6 /* README */;
+		name = "README: 3";
+		rLen = 43;
+		rLoc = 27;
+		rType = 0;
+		vrLen = 182;
+		vrLoc = 0;
+	};
+	A4C61E0610650FBA00C9A3C6 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* TiltShiftShow-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/sumi/Documents/Project/TiltShiftShow/TiltShiftShow-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	A4C61E0710650FBA00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61C1D1064543600C9A3C6 /* PictureManager.m */;
+		name = "PictureManager.m: 62";
+		rLen = 27;
+		rLoc = 1298;
+		rType = 0;
+		vrLen = 1410;
+		vrLoc = 2728;
+	};
+	A4C61E0810650FBA00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61C1C1064543600C9A3C6 /* PictureManager.h */;
+		name = "PictureManager.h: 28";
+		rLen = 0;
+		rLoc = 572;
+		rType = 0;
+		vrLen = 579;
+		vrLoc = 0;
+	};
+	A4C61E0910650FBA00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TiltShiftShowViewController.h */;
+		name = "TiltShiftShowViewController.h: 21";
+		rLen = 38;
+		rLoc = 775;
+		rType = 0;
+		vrLen = 515;
+		vrLoc = 0;
+	};
+	A4C61E0A10650FBA00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 93";
+		rLen = 0;
+		rLoc = 2411;
+		rType = 0;
+		vrLen = 1161;
+		vrLoc = 2377;
+	};
+	A4C61E0B10650FBA00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 144";
+		rLen = 0;
+		rLoc = 4342;
+		rType = 0;
+		vrLen = 1195;
+		vrLoc = 2414;
+	};
+	A4C61E0C10650FCC00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1132;
+		vrLoc = 0;
+	};
+	A4C61E0D10650FDD00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1144;
+		vrLoc = 2470;
+	};
+	A4C61E0E10650FDD00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TiltShiftShowViewController.h */;
+		name = "TiltShiftShowViewController.h: 21";
+		rLen = 38;
+		rLoc = 775;
+		rType = 0;
+		vrLen = 515;
+		vrLoc = 0;
+	};
+	A4C61E151065138C00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TiltShiftShowViewController.h */;
+		name = "TiltShiftShowViewController.h: 21";
+		rLen = 0;
+		rLoc = 600;
+		rType = 0;
+		vrLen = 677;
+		vrLoc = 0;
+	};
+	A4C61E161065138C00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 18";
+		rLen = 0;
+		rLoc = 373;
+		rType = 0;
+		vrLen = 1043;
+		vrLoc = 0;
+	};
+	A4C61E171065138C00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 119";
+		rLen = 0;
+		rLoc = 3289;
+		rType = 0;
+		vrLen = 1277;
+		vrLoc = 2134;
+	};
+	A4C61E1A106513E900C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61C1D1064543600C9A3C6 /* PictureManager.m */;
+		name = "PictureManager.m: 62";
+		rLen = 27;
+		rLoc = 1298;
+		rType = 0;
+		vrLen = 1410;
+		vrLoc = 2728;
+	};
+	A4C61E1B106513E900C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61C1F1064544A00C9A3C6 /* PictureFetcher.h */;
+		name = "PictureFetcher.h: 26";
+		rLen = 60;
+		rLoc = 570;
+		rType = 0;
+		vrLen = 636;
+		vrLoc = 0;
+	};
+	A4C61E1C106513E900C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61C201064544A00C9A3C6 /* PictureFetcher.m */;
+		name = "PictureFetcher.m: 100";
+		rLen = 0;
+		rLoc = 3173;
+		rType = 0;
+		vrLen = 1672;
+		vrLoc = 688;
+	};
+	A4C61E1D106513E900C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 100";
+		rLen = 0;
+		rLoc = 2726;
+		rType = 0;
+		vrLen = 1186;
+		vrLoc = 1934;
+	};
+	A4C61E1E106513E900C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 101";
+		rLen = 0;
+		rLoc = 2733;
+		rType = 0;
+		vrLen = 1161;
+		vrLoc = 1934;
+	};
+	A4C61E2F106515D700C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61C201064544A00C9A3C6 /* PictureFetcher.m */;
+		name = "PictureFetcher.m: 51";
+		rLen = 0;
+		rLoc = 1571;
+		rType = 0;
+		vrLen = 1667;
+		vrLoc = 688;
+	};
+	A4C61E30106515D700C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 101";
+		rLen = 0;
+		rLoc = 2733;
+		rType = 0;
+		vrLen = 1200;
+		vrLoc = 1895;
+	};
+	A4C61E31106515D700C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 100";
+		rLen = 0;
+		rLoc = 2729;
+		rType = 0;
+		vrLen = 1242;
+		vrLoc = 1895;
+	};
+	A4C61E34106515FD00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 46";
+		rLen = 0;
+		rLoc = 1123;
+		rType = 0;
+		vrLen = 1170;
+		vrLoc = 804;
+	};
+	A4C61E35106519B900C9A3C6 /* DetailViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {760, 589}}";
+			sepNavSelRange = "{440, 0}";
+			sepNavVisRange = "{0, 617}";
+		};
+	};
+	A4C61E36106519B900C9A3C6 /* DetailViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {760, 927}}";
+			sepNavSelRange = "{819, 0}";
+			sepNavVisRange = "{85, 1335}";
+		};
+	};
+	A4C61E3B106519C300C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TiltShiftShowViewController.h */;
+		name = "TiltShiftShowViewController.h: 21";
+		rLen = 0;
+		rLoc = 600;
+		rType = 0;
+		vrLen = 677;
+		vrLoc = 0;
+	};
+	A4C61E3C106519C300C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 46";
+		rLen = 0;
+		rLoc = 1123;
+		rType = 0;
+		vrLen = 1087;
+		vrLoc = 1717;
+	};
+	A4C61E3D106519C300C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61E35106519B900C9A3C6 /* DetailViewController.h */;
+		name = "DetailViewController.h: 17";
+		rLen = 0;
+		rLoc = 617;
+		rType = 0;
+		vrLen = 236;
+		vrLoc = 0;
+	};
+	A4C61E3E106519C300C9A3C6 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = A4C61E36106519B900C9A3C6 /* DetailViewController.m */;
+	};
+	A4C61E3F106519C300C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61E36106519B900C9A3C6 /* DetailViewController.m */;
+		name = "DetailViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1245;
+		vrLoc = 0;
+	};
+	A4C61E4010651DD100C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61E35106519B900C9A3C6 /* DetailViewController.h */;
+		name = "DetailViewController.h: 16";
+		rLen = 0;
+		rLoc = 440;
+		rType = 0;
+		vrLen = 353;
+		vrLoc = 0;
+	};
+	A4C61E4110651DD100C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61E36106519B900C9A3C6 /* DetailViewController.m */;
+		name = "DetailViewController.m: 57";
+		rLen = 0;
+		rLoc = 1803;
+		rType = 0;
+		vrLen = 1295;
+		vrLoc = 183;
+	};
+	A4C61E4210651DD100C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61E36106519B900C9A3C6 /* DetailViewController.m */;
+		name = "DetailViewController.m: 15";
+		rLen = 0;
+		rLoc = 289;
+		rType = 0;
+		vrLen = 1271;
+		vrLoc = 0;
+	};
+	A4C61E4510651F4900C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61E36106519B900C9A3C6 /* DetailViewController.m */;
+		name = "DetailViewController.m: 15";
+		rLen = 0;
+		rLoc = 289;
+		rType = 0;
+		vrLen = 1260;
+		vrLoc = 250;
+	};
+	A4C61E4610651F4900C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 46";
+		rLen = 0;
+		rLoc = 1123;
+		rType = 0;
+		vrLen = 1152;
+		vrLoc = 1680;
+	};
+	A4C61E4710651F4900C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 152";
+		rLen = 0;
+		rLoc = 4260;
+		rType = 0;
+		vrLen = 1372;
+		vrLoc = 2866;
+	};
+	A4C61E4B1065205300C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61E36106519B900C9A3C6 /* DetailViewController.m */;
+		name = "DetailViewController.m: 15";
+		rLen = 0;
+		rLoc = 289;
+		rType = 0;
+		vrLen = 1255;
+		vrLoc = 250;
+	};
+	A4C61E4C1065205300C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61E35106519B900C9A3C6 /* DetailViewController.h */;
+		name = "DetailViewController.h: 16";
+		rLen = 0;
+		rLoc = 440;
+		rType = 0;
+		vrLen = 353;
+		vrLoc = 0;
+	};
+	A4C61E4D1065205300C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61C1C1064543600C9A3C6 /* PictureManager.h */;
+		name = "PictureManager.h: 28";
+		rLen = 0;
+		rLoc = 572;
+		rType = 0;
+		vrLen = 579;
+		vrLoc = 0;
+	};
+	A4C61E4E1065205300C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TiltShiftShowViewController.h */;
+		name = "TiltShiftShowViewController.h: 21";
+		rLen = 0;
+		rLoc = 600;
+		rType = 0;
+		vrLen = 677;
+		vrLoc = 0;
+	};
+	A4C61E4F1065205300C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 152";
+		rLen = 0;
+		rLoc = 4260;
+		rType = 0;
+		vrLen = 1342;
+		vrLoc = 2896;
+	};
+	A4C61E501065205300C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 46";
+		rLen = 0;
+		rLoc = 1123;
+		rType = 0;
+		vrLen = 1207;
+		vrLoc = 718;
+	};
+	A4C61E541065218A00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TiltShiftShowViewController.h */;
+		name = "TiltShiftShowViewController.h: 24";
+		rLen = 0;
+		rLoc = 671;
+		rType = 0;
+		vrLen = 706;
+		vrLoc = 0;
+	};
+	A4C61E551065218A00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 46";
+		rLen = 0;
+		rLoc = 1123;
+		rType = 0;
+		vrLen = 1208;
+		vrLoc = 718;
+	};
+	A4C61E561065218A00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 45";
+		rLen = 0;
+		rLoc = 1118;
+		rType = 0;
+		vrLen = 1261;
+		vrLoc = 718;
+	};
+	A4C61E591065219700C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 45";
+		rLen = 0;
+		rLoc = 1118;
+		rType = 0;
+		vrLen = 1229;
+		vrLoc = 718;
+	};
+	A4C61E601065223900C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 45";
+		rLen = 0;
+		rLoc = 1066;
+		rType = 0;
+		vrLen = 1261;
+		vrLoc = 718;
+	};
+	A4C61E611065229500C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TiltShiftShowViewController.h */;
+		name = "TiltShiftShowViewController.h: 25";
+		rLen = 0;
+		rLoc = 772;
+		rType = 0;
+		vrLen = 754;
+		vrLoc = 0;
+	};
+	A4C61E621065229500C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 45";
+		rLen = 0;
+		rLoc = 1066;
+		rType = 0;
+		vrLen = 1263;
+		vrLoc = 718;
+	};
+	A4C61E631065229500C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 45";
+		rLen = 0;
+		rLoc = 1066;
+		rType = 0;
+		vrLen = 1142;
+		vrLoc = 0;
+	};
+	A4C61E64106522B200C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 20";
+		rLen = 0;
+		rLoc = 419;
+		rType = 0;
+		vrLen = 1122;
+		vrLoc = 0;
+	};
+	A4C61E65106522B200C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TiltShiftShowViewController.h */;
+		name = "TiltShiftShowViewController.h: 25";
+		rLen = 0;
+		rLoc = 772;
+		rType = 0;
+		vrLen = 754;
+		vrLoc = 0;
+	};
+	A4C61E68106522D700C9A3C6 /* TiltShiftShowViewController.m:154 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		functionName = "-touchMainView:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 154;
+		location = TiltShiftShow;
+		modificationTime = 275066517.805608;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A4C61E6A106522DF00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TiltShiftShowViewController.h */;
+		name = "TiltShiftShowViewController.h: 25";
+		rLen = 0;
+		rLoc = 772;
+		rType = 0;
+		vrLen = 754;
+		vrLoc = 0;
+	};
+	A4C61E6B106522DF00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61E36106519B900C9A3C6 /* DetailViewController.m */;
+		name = "DetailViewController.m: 15";
+		rLen = 0;
+		rLoc = 289;
+		rType = 0;
+		vrLen = 1257;
+		vrLoc = 247;
+	};
+	A4C61E6C106522DF00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 20";
+		rLen = 0;
+		rLoc = 419;
+		rType = 0;
+		vrLen = 1342;
+		vrLoc = 2978;
+	};
+	A4C61E6D106522DF00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 20";
+		rLen = 0;
+		rLoc = 419;
+		rType = 0;
+		vrLen = 1344;
+		vrLoc = 2976;
+	};
+	A4C61E711065231F00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 20";
+		rLen = 0;
+		rLoc = 419;
+		rType = 0;
+		vrLen = 1372;
+		vrLoc = 421;
+	};
+	A4C61E721065231F00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TiltShiftShowViewController.h */;
+		name = "TiltShiftShowViewController.h: 25";
+		rLen = 0;
+		rLoc = 772;
+		rType = 0;
+		vrLen = 754;
+		vrLoc = 0;
+	};
+	A4C61E731065231F00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TiltShiftShowViewController.h */;
+		name = "TiltShiftShowViewController.h: 25";
+		rLen = 0;
+		rLoc = 761;
+		rType = 0;
+		vrLen = 758;
+		vrLoc = 0;
+	};
+	A4C61E8A106524E000C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TiltShiftShowViewController.h */;
+		name = "TiltShiftShowViewController.h: 26";
+		rLen = 1;
+		rLoc = 774;
+		rType = 0;
+		vrLen = 758;
+		vrLoc = 0;
+	};
+	A4C61E8B106524E000C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 20";
+		rLen = 0;
+		rLoc = 419;
+		rType = 0;
+		vrLen = 1372;
+		vrLoc = 421;
+	};
+	A4C61E8C106524E000C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 86";
+		rLen = 0;
+		rLoc = 2212;
+		rType = 0;
+		vrLen = 1262;
+		vrLoc = 2224;
+	};
+	A4C61E931065250800C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 46";
+		rLen = 0;
+		rLoc = 1066;
+		rType = 0;
+		vrLen = 1176;
+		vrLoc = 718;
+	};
+	A4C61E9A1065253D00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 46";
+		rLen = 0;
+		rLoc = 1066;
+		rType = 0;
+		vrLen = 1372;
+		vrLoc = 2947;
+	};
+	A4C61EA11065258600C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 156";
+		rLen = 0;
+		rLoc = 4320;
+		rType = 0;
+		vrLen = 1367;
+		vrLoc = 2947;
+	};
+	A4C61EAB1065264C00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61E35106519B900C9A3C6 /* DetailViewController.h */;
+		name = "DetailViewController.h: 18";
+		rLen = 0;
+		rLoc = 440;
+		rType = 0;
+		vrLen = 429;
+		vrLoc = 0;
+	};
+	A4C61EAC1065264C00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 154";
+		rLen = 0;
+		rLoc = 4259;
+		rType = 0;
+		vrLen = 1283;
+		vrLoc = 2947;
+	};
+	A4C61EAD1065264C00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61E36106519B900C9A3C6 /* DetailViewController.m */;
+		name = "DetailViewController.m: 31";
+		rLen = 0;
+		rLoc = 904;
+		rType = 0;
+		vrLen = 1261;
+		vrLoc = 371;
+	};
+	A4C61EAE1065264C00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61E36106519B900C9A3C6 /* DetailViewController.m */;
+		name = "DetailViewController.m: 58";
+		rLen = 0;
+		rLoc = 1570;
+		rType = 0;
+		vrLen = 1060;
+		vrLoc = 594;
+	};
+	A4C61EB91065268A00C9A3C6 /* DetailViewController.m:32 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = A4C61E36106519B900C9A3C6 /* DetailViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 32;
+		location = TiltShiftShow;
+		modificationTime = 275066506.47899;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A4C61EBB1065268D00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61E36106519B900C9A3C6 /* DetailViewController.m */;
+		name = "DetailViewController.m: 58";
+		rLen = 0;
+		rLoc = 1570;
+		rType = 0;
+		vrLen = 1060;
+		vrLoc = 594;
+	};
+	A4C61EBC1065268D00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61E36106519B900C9A3C6 /* DetailViewController.m */;
+		name = "DetailViewController.m: 58";
+		rLen = 0;
+		rLoc = 1570;
+		rType = 0;
+		vrLen = 1137;
+		vrLoc = 517;
+	};
+	A4C61EC110652C6E00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61E36106519B900C9A3C6 /* DetailViewController.m */;
+		name = "DetailViewController.m: 58";
+		rLen = 0;
+		rLoc = 1570;
+		rType = 0;
+		vrLen = 1065;
+		vrLoc = 594;
+	};
+	A4C61EC210652C6E00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TiltShiftShowViewController.h */;
+		name = "TiltShiftShowViewController.h: 19";
+		rLen = 0;
+		rLoc = 519;
+		rType = 0;
+		vrLen = 785;
+		vrLoc = 0;
+	};
+	A4C61EC310652C6E00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 131";
+		rLen = 19;
+		rLoc = 3493;
+		rType = 0;
+		vrLen = 1287;
+		vrLoc = 2977;
+	};
+	A4C61EC410652C6E00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 162";
+		rLen = 0;
+		rLoc = 4342;
+		rType = 0;
+		vrLen = 1205;
+		vrLoc = 3116;
+	};
+	A4C61EC510652D3A00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TiltShiftShowViewController.h */;
+		name = "TiltShiftShowViewController.h: 12";
+		rLen = 0;
+		rLoc = 300;
+		rType = 0;
+		vrLen = 849;
+		vrLoc = 0;
+	};
+	A4C61EC610652D3A00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 159";
+		rLen = 0;
+		rLoc = 4143;
+		rType = 0;
+		vrLen = 1208;
+		vrLoc = 3275;
+	};
+	A4C61EC710652D3A00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61E35106519B900C9A3C6 /* DetailViewController.h */;
+		name = "DetailViewController.h: 21";
+		rLen = 0;
+		rLoc = 440;
+		rType = 0;
+		vrLen = 617;
+		vrLoc = 0;
+	};
+	A4C61EC810652D3A00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61E36106519B900C9A3C6 /* DetailViewController.m */;
+		name = "DetailViewController.m: 63";
+		rLen = 104;
+		rLoc = 1658;
+		rType = 0;
+		vrLen = 1117;
+		vrLoc = 594;
+	};
+	A4C61ECB10652E2300C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61E36106519B900C9A3C6 /* DetailViewController.m */;
+		name = "DetailViewController.m: 64";
+		rLen = 0;
+		rLoc = 1752;
+		rType = 0;
+		vrLen = 1158;
+		vrLoc = 627;
+	};
+	A4C61ECC10652E2300C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TiltShiftShowViewController.h */;
+		name = "TiltShiftShowViewController.h: 12";
+		rLen = 0;
+		rLoc = 300;
+		rType = 0;
+		vrLen = 849;
+		vrLoc = 0;
+	};
+	A4C61ECD10652E2300C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 159";
+		rLen = 0;
+		rLoc = 4143;
+		rType = 0;
+		vrLen = 1181;
+		vrLoc = 3308;
+	};
+	A4C61ED110652E3700C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TiltShiftShowViewController.m */;
+		name = "TiltShiftShowViewController.m: 159";
+		rLen = 0;
+		rLoc = 4143;
+		rType = 0;
+		vrLen = 1181;
+		vrLoc = 3308;
+	};
+	A4C61ED210652E3700C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61E35106519B900C9A3C6 /* DetailViewController.h */;
+		name = "DetailViewController.h: 21";
+		rLen = 0;
+		rLoc = 440;
+		rType = 0;
+		vrLen = 617;
+		vrLoc = 0;
+	};
+	A4C61ED310652E3700C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61E36106519B900C9A3C6 /* DetailViewController.m */;
+		name = "DetailViewController.m: 16";
+		rLen = 0;
+		rLoc = 288;
+		rType = 0;
+		vrLen = 1230;
+		vrLoc = 0;
+	};
+	A4C61ED810652E4F00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61E36106519B900C9A3C6 /* DetailViewController.m */;
+		name = "DetailViewController.m: 16";
+		rLen = 0;
+		rLoc = 288;
+		rType = 0;
+		vrLen = 1230;
+		vrLoc = 0;
+	};
+	A4C61EDE10652E9E00C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61E36106519B900C9A3C6 /* DetailViewController.m */;
+		name = "DetailViewController.m: 31";
+		rLen = 0;
+		rLoc = 819;
+		rType = 0;
+		vrLen = 1335;
+		vrLoc = 85;
 	};
 }

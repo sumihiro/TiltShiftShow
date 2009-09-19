@@ -48,6 +48,7 @@
 																			,imageURL,@"imageURL"
 																			,[tweet objectForKey:@"text"],@"text"
 																			,[tweet objectForKey:@"created_at"],@"createdAt"
+																			,[tweet objectForKey:@"from_user"],@"tweetUser"
 																			,[tweet objectForKey:@"id"],@"tweetID"
 																			,[tweet objectForKey:@"profile_image_url"],@"profileImageUrl"
 
